@@ -1,4 +1,4 @@
-FastAPI Series - Lesson 2
+# FastAPI Series - Lesson 2
 
 ---
 
